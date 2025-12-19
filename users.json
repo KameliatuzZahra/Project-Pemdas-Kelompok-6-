@@ -1,0 +1,22 @@
+[
+    {
+        "username": "admin",
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "role": "admin"
+    },
+    {
+        "username": "mahasiswa1",
+        "password": "eb67db6839be4d7309b3a070101dc9756e443291a945df9d0b8afa433678cb44",
+        "role": "mahasiswa"
+    },
+    {
+        "username": "mahasiswa2",
+        "password": "eb67db6839be4d7309b3a070101dc9756e443291a945df9d0b8afa433678cb44",
+        "role": "mahasiswa"
+    },
+    {
+        "username": "kameliatuz",
+        "password": "09700848a461a0d3817261502c18bb39c3557417e73d9dcbbfd32ded7d93bfa9",
+        "role": "mahasiswa"
+    }
+]
